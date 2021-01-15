@@ -1,0 +1,26 @@
+.form-input{
+  width: 425px;
+  height: 40px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  letter-spacing: 4px;
+}
+
+.form-input[placeholder]{
+  text-align: center;
+}
+
+.form-btn{
+  margin: 30px auto;
+  display: block;
+  width: 180px;
+  height: 35px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.form-btn:hover{
+  background-color: rgb(12, 221, 169, 0.7);
+}

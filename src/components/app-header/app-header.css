@@ -1,0 +1,19 @@
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-info{
+  margin-left: 20px;
+}
+
+.header-info h2{
+  width: 450px;
+  color: rgb(71, 63, 63);
+  letter-spacing: 1px;
+}
+
+.header-info p{
+  color: rgb(66, 62, 62);
+  letter-spacing: 2px;
+}

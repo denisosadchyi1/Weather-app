@@ -1,0 +1,12 @@
+.form-wrapper{
+  width: 430px;
+  margin: 100px auto;
+  /* background-color: rgb(192,192,192, 0.5); */
+  height: 400px;
+  justify-content: center;
+}
+
+body{
+  background-image: url('../../Yosemite\ 3.jpg');
+  background-size: cover;
+}

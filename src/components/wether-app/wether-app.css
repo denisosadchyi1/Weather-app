@@ -1,0 +1,9 @@
+.wether-wrapper{
+  width: 300px;
+  margin: 0 auto;
+  background-color: rgba(129, 219, 186, 0.5);
+  color: rgb(243, 243, 62);
+  /* color: #fff; */
+  font-size: 25px;
+  font-weight: 800;
+}
